@@ -11,7 +11,7 @@ function render() {
 }
 
 function colorChange() {
-    document.getElementById('title').style.color = 'purple';
+    document.getElementById('title').style.color = 'green';
 }
 
 init();
